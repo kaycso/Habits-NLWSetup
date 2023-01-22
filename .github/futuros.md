@@ -1,0 +1,5 @@
+- mudar a forma de alerta da função registerDay para uma caixa de diálogo simples
+- fazer o script.js sem usar a biblioteca
+- criar uma forma de adicionar manualmente o hábito desejado
+- Criar um login para poder carregar os dados em qualquer navegador (provavelmente envolve um banco de dados) - MAIS COMPLEXO
+- armazenar em Mês e Ano os hábitos (como pastas) - MAIS COMPLEXO
